@@ -5,6 +5,7 @@ Last updated: (1/29/2026)
 1. INFORMATION WE COLLECT
 
 1.1 Information You Provide
+
 • Name (optional)
 
 • Email address
@@ -30,24 +31,39 @@ Last updated: (1/29/2026)
 
 1.3 Activity Tracking
 To measure movement and calculate Energy Points, Move+ may collect:
+
 • Steps
+
 • Distance
+
 • Activity type (walk/run/cycle)
+
 • GPS data
+
 • Motion sensor data (accelerometer, gyroscope)
+
 You can disable location anytime in settings. Background location is used only during active tracking sessions if you
 enable “Track with screen off”.
 
 2. HOW WE USE YOUR INFORMATION
 We use your data to:
+
 • Track activity for rewards
+
 • Improve accuracy of tracking features
+
 • Manage subscriptions and purchases
+
 • Detect cheating or fraud
+
 • Provide customer support
+
 • Run events, challenges, and reward systems
+
 • Improve and personalize app features
+
 • Process reward claims and verify submissions
+
 Move+ does not sell personal information.
 
 3. COOKIES & ANALYTICS
