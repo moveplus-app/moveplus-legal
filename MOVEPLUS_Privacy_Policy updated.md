@@ -6,17 +6,26 @@ Last updated: (1/29/2026)
 
 1.1 Information You Provide
 • Name (optional)
+
 • Email address
+
 • Profile information
+
 • Social media links you choose to connect
+
 • Screenshots for follower verification
+
 • Any details submitted through support forms
 
 1.2 Automatically Collected Information
 • Device type & model
+
 • Operating system version
+
 • App usage data
+
 • IP address (for security & fraud detection)
+
 • General location (approximate, not precise)
 
 1.3 Activity Tracking
