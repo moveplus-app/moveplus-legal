@@ -5,7 +5,7 @@
 
 ### 1. ACCEPTANCE OF TERMS
 
-By accessing or using Move+ (part of the **Amaya Ecosystem**), you agree to be bound by these Terms and Conditions. If you do not agree, do not use the application.
+By accessing or using Move+, you agree to be bound by these Terms and Conditions. If you do not agree, do not use the application.
 
 ### 2. ELIGIBILITY & ACCOUNT
 
@@ -50,7 +50,7 @@ To maintain the integrity of the reward economy, Move+ employs anti-cheat mechan
 
 ### 8. LIMITATION OF LIABILITY
 
-Move+ and the **Amaya Ecosystem** are not responsible for any physical injuries sustained while using the app. Please remain aware of your surroundings while exercising.
+Move+ are not responsible for any physical injuries sustained while using the app. Please remain aware of your surroundings while exercising.
 
 ---
 
