@@ -1,137 +1,57 @@
-# MOVE+ — Privacy Policy
 
-**Last updated: January 29, 2026**
 
----
+# MOVE+ PRIVACY POLICY
 
-## 1. INFORMATION WE COLLECT
+**Last Updated: May 9, 2026**
 
-### 1.1 Information You Provide
-- Name (optional)
-- Email address
-- Profile information
-- Social media links you choose to connect
-- Screenshots for follower verification
-- Any details submitted through support forms
+Move+ (operated by the **Amaya Ecosystem**) is committed to protecting your privacy. This policy explains how we collect, use, and safeguard your information when you use our hybrid Web2/Web3 fitness application.
 
-### 1.2 Automatically Collected Information
-- Device type & model
-- Operating system version
-- App usage data
-- IP address (for security & fraud detection)
-- General location (approximate, not precise)
+### 1. DATA WE COLLECT
 
-### 1.3 Activity Tracking
-To measure movement and calculate Energy Points, Move+ may collect:
+To provide our "Move-to-Earn" services, we collect the following categories of data:
 
-- Steps
-- Distance
-- Activity type (walk/run/cycle)
-- GPS data
-- Motion sensor data (accelerometer, gyroscope)
+* **Fitness & Health Data:** We access your device's motion sensors and GPS to track distance, steps, and activity type (Walking, Running, Cycling). On iOS, this may include integration with **Apple HealthKit**.
+* **Location Data:** We collect precise location data in the background to verify physical movement and prevent fraudulent "Energy" earning.
+* **Account Information:** Email address or social login details for Web2 account management.
+* **Web3 Data:** If you choose to connect a wallet via **Ronin Waypoint**, we collect your public wallet address. We **never** collect or store your private keys or seed phrases.
+* **Shipping Information:** If you claim physical rewards, we collect your name, phone number, and physical address for delivery.
 
-You can disable location anytime in settings. Background location is used only during active tracking sessions if you enable **“Track with screen off.”**
+### 2. HOW WE USE YOUR DATA
 
----
+We use your data strictly for the following purposes:
 
-## 2. HOW WE USE YOUR INFORMATION
+* **Energy Calculation:** To calculate and award "Energy" based on verified physical effort.
+* **App Functionality:** To display your activity history, NFT collectibles, and fitness milestones.
+* **Reward Fulfillment:** To process and ship physical goods claimed in the Marketplace.
+* **Security:** To detect and prevent GPS spoofing or other forms of cheating.
 
-We use your data to:
+### 3. DATA SHARING & THIRD PARTIES
 
-- Track activity for rewards
-- Improve accuracy of tracking features
-- Manage subscriptions and purchases
-- Detect cheating or fraud
-- Provide customer support
-- Run events, challenges, and reward systems
-- Improve and personalize app features
-- Process reward claims and verify submissions
+We do not sell your personal data. We only share information with:
 
-**Move+ does not sell personal information.**
+* **Logistics Partners:** Your shipping details are shared with third-party carriers only when you redeem a physical reward.
+* **Blockchain Networks:** Transactional data (such as "Upgrades") is recorded on the **Ronin Network**. Please note that blockchain data is public by nature.
 
----
+### 4. DATA RETENTION & DELETION
 
-## 3. COOKIES & ANALYTICS
+Apple requires that users have full control over their data.
 
-We may use analytics tools to improve app performance and features.  
-Analytics data is aggregated and does not include personally sensitive data unless you explicitly provide it.
+* **Retention:** We retain your fitness data only as long as necessary to maintain your account history.
+* **Deletion:** You may request account deletion at any time via the app settings. Upon deletion, all personal Web2 data is purged from our servers within 30 days. Public blockchain records cannot be deleted.
 
----
+### 5. YOUR PRIVACY CHOICES
 
-## 4. HOW WE PROTECT YOUR INFORMATION
+* **Location Permissions:** You can enable or disable location tracking at any time in your device settings. However, disabling location will prevent you from earning Energy.
+* **Wallet Unlinking:** You can disconnect your Ronin Wallet from the Move+ dashboard at any time.
 
-We use industry-standard measures to protect your data:
+### 6. SECURITY
 
-- Encrypted storage and secure channels (HTTPS)
-- Access controls and limited staff access
-- Fraud detection systems
+We implement industry-standard encryption for all data in transit. Your Web3 assets remain under your non-custodial control via Ronin Waypoint.
 
-Please note no system is 100% secure — use Move+ at your own risk.
+### 7. CONTACT US
 
----
-
-## 5. SHARING YOUR INFORMATION
-
-### 5.1 Service Providers
-We may share information with trusted service providers for:
-- Cloud hosting and storage
-- Analytics and crash reporting
-- Authentication services
-- Payment processing
-
-### 5.2 Legal Requirements
-We may disclose data to comply with laws or to protect safety.
-
-### 5.3 No Selling
-We do not sell user data to advertisers or third parties.
-
----
-
-## 6. YOUR RIGHTS
-
-Depending on your location, you may request:
-
-- Access to your data
-- Correction or deletion
-- Restriction of processing
-- Export of your data (if supported)
-
-To request changes or deletion, contact:  
+For privacy-related inquiries or data access requests, please contact the Amaya Ecosystem team at:
 **moveplus@gmail.com**
 
----
 
-## 7. DATA RETENTION
 
-We retain data while your account is active and for a reasonable time after deletion to meet legal obligations and fraud prevention. You can request deletion by contacting support.
-
----
-
-## 8. CHILDREN'S PRIVACY
-
-Move+ is not intended for users under 13. If you believe a child under 13 has used the app, contact us to request deletion.
-
----
-
-## 9. THIRD-PARTY LINKS
-
-Move+ may contain links to external sites. We are not responsible for external privacy practices.
-
----
-
-## 10. INTERNATIONAL USERS
-
-Your data may be processed outside your country. We take measures to protect your information according to applicable laws.
-
----
-
-## 11. CHANGES TO THIS PRIVACY POLICY
-
-We may update this policy. Continued use of the app after changes constitutes acceptance.
-
----
-
-## 12. CONTACT US
-
-For privacy questions or data requests, contact:  
-**moveplus@gmail.com**
