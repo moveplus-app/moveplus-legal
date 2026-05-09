@@ -4,7 +4,7 @@
 
 **Last Updated: May 9, 2026**
 
-Move+ (operated by the **Amaya Ecosystem**) is committed to protecting your privacy. This policy explains how we collect, use, and safeguard your information when you use our hybrid Web2/Web3 fitness application.
+Move+ is committed to protecting your privacy. This policy explains how we collect, use, and safeguard your information when you use our hybrid Web2/Web3 fitness application.
 
 ### 1. DATA WE COLLECT
 
