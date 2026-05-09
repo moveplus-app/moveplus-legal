@@ -1,180 +1,58 @@
 
-# MOVE+ — Terms & Conditions
+# MOVEPLUS TERMS AND CONDITIONS
 
-**Last updated:** *(Insert Date)*
+**Last Updated: May 9, 2026**
 
----
+### 1. ACCEPTANCE OF TERMS
 
-## 1. Acceptance of Terms
+By accessing or using Move+ (part of the **Amaya Ecosystem**), you agree to be bound by these Terms and Conditions. If you do not agree, do not use the application.
 
-By creating an account, accessing, or using **Move+**, you agree to comply with these Terms & Conditions and our Privacy Policy.
+### 2. ELIGIBILITY & ACCOUNT
 
-If you do not agree with any part of these terms, please stop using the app immediately.
+* **User Age:** You must be at least 13 years old to use Move+.
+* **Account Types:** Users may maintain a Web2 account (Email/Social) and optionally link a non-custodial Ronin Wallet via Ronin Waypoint.
+* **Non-Custodial Responsibility:** Move+ does not have access to your private keys or seed phrases. You are solely responsible for the security of your wallet.
 
----
+### 3. THE "MOVE-TO-EARN" LOYALTY SYSTEM
 
-## 2. Eligibility
+Move+ utilizes a "sweat equity" model to incentivize physical health.
 
-* You must be **at least 13 years old** to use Move+.
-* Users under **18 years old** must have permission from a parent or legal guardian.
+* **Energy (Off-Chain Points):** Users earn "Energy" by participating in verified physical activities (walking, running, cycling) tracked via GPS and motion sensors.
+* **No Purchase Policy:** Energy cannot be purchased, topped up with real currency, or traded. It is a non-monetary loyalty point with no cash value outside the Move+ ecosystem.
+* **Conversion to ENR:** Users may convert earned Energy into **ENR**, an internal utility point used for virtual item maintenance (Repair and Upgrade).
 
----
+### 4. PHYSICAL GOODS MARKETPLACE (Guideline 3.1.5(a))
 
-## 3. Energy Points System
+The Move+ Marketplace allows users to redeem earned **Energy** for physical merchandise.
 
-**Energy Points ("Energy")** are virtual, in-app points used within the Move+ platform.
+* **Redemption Only:** Items are "claimed" using Energy points. No real-world currency (USD, PHP, etc.) is accepted for these items within the app.
+* **Third-Party Brands:** Move+ provides a platform for redemption. Any third-party brand names (e.g., Decathlon) are the property of their respective owners. Move+ is not necessarily an official partner unless explicitly stated.
+* **Shipping & Delivery:** Users must provide accurate shipping information. Delivery times vary based on location.
 
-### 3.1 No Monetary Value
+### 5. OPTIONAL WEB3 FEATURES (Guideline 3.1.1)
 
-* Energy has **no real-world monetary value**.
-* Energy cannot be sold, traded, exchanged, or transferred outside Move+.
+The Web3 dashboard is an optional interface for viewing digital collectibles (NFTs).
 
-### 3.2 Earning Energy
+* **Digital Collectibles:** NFTs are digital trophies and milestone trackers. Ownership of an NFT does not "unlock" core app features but may be used for data-syncing of fitness milestones.
+* **No Investment Advice:** Move+ does not provide financial or investment advice. Digital assets carry inherent risks.
 
-* **Free users** may earn Energy through invites, login streaks, ads, raffles, and events.
-* **Subscribers** may earn Energy through movement (walking, running, cycling), plus all free-user rewards.
+### 6. ANTI-CHEAT & ACCURACY
 
-Move+ reserves the right to modify earning rules, limits, or mechanics at any time.
+To maintain the integrity of the reward economy, Move+ employs anti-cheat mechanisms.
 
----
+* **Data Integrity:** Use of GPS spoofers, emulators, or attaching devices to fans/animals to "farm" Energy is strictly prohibited.
+* **Penalties:** Accounts found to be cheating will have their Energy/ENR balances voided and may face permanent suspension.
 
-## 4. Subscriptions
+### 7. REFUND & CANCELLATION POLICY
 
-Move+ offers optional subscription plans that unlock additional features and rewards.
+* **Physical Goods:** Claims for physical goods are final once shipped. If an item arrives damaged, users must contact support within 48 hours for a replacement (subject to stock).
+* **Digital Utility:** Conversions from Energy to ENR or "Repair" actions are irreversible.
 
-### 4.1 Payment
+### 8. LIMITATION OF LIABILITY
 
-Subscription fees are processed through:
-
-* Google Play Store
-* Apple App Store
-
-### 4.2 Auto-Renewal
-
-Subscriptions automatically renew unless cancelled before the next billing date.
-
-### 4.3 Refunds
-
-All refunds are handled according to Google Play or Apple App Store policies.
-Move+ does not directly issue refunds.
+Move+ and the **Amaya Ecosystem** are not responsible for any physical injuries sustained while using the app. Please remain aware of your surroundings while exercising.
 
 ---
 
-## 5. Accurate Activity Tracking
 
-To maintain fairness:
-
-The following are strictly prohibited:
-
-* Fake steps
-* GPS spoofing or manipulation
-* Treadmill or sensor hacks
-* Any form of cheating or automation
-
-Move+ may suspend or restrict accounts suspected of fraudulent activity.
-
-Move+ is not responsible for inaccurate tracking caused by device limitations, hardware issues, or GPS errors.
-
----
-
-## 6. Marketplace & Rewards
-
-Energy may be redeemed for digital items, entries, or rewards inside the app.
-
-### 6.1 Limited Availability
-
-Rewards, raffles, or items may be modified, replaced, or removed at any time without notice.
-
-### 6.2 No Guarantees
-
-Participation in raffles, events, or promotions does not guarantee winning.
-
----
-
-## 7. Social Media Milestone Rewards
-
-Users may submit proof of milestones to earn Energy rewards.
-
-Move+ may:
-
-* Request verification or screenshots
-* Validate account authenticity
-* Reject suspicious or manipulated activity
-
-Fake followers, bots, or artificial engagement may result in disqualification.
-
----
-
-## 8. User Conduct
-
-You agree **NOT** to:
-
-* Cheat or manipulate activity data
-* Abuse referral systems
-* Create multiple accounts to farm Energy
-* Use Move+ for illegal activities
-* Upload harmful, abusive, or inappropriate content
-
-Violations may result in account suspension or termination.
-
----
-
-## 9. App Updates
-
-Move+ may add, modify, or remove features at any time.
-
-Continued use of the app after updates means you accept the changes.
-
----
-
-## 10. Limitation of Liability
-
-Move+ is provided **"as is"** without warranties of any kind.
-
-We are not responsible for:
-
-* Technical issues
-* Bugs or crashes
-* GPS errors
-* Data loss
-* Device damage
-* Step or distance inaccuracies
-
-Use the app at your own risk.
-
----
-
-## 11. Account Suspension & Termination
-
-Move+ may suspend or terminate accounts that:
-
-* Violate these Terms
-* Engage in fraud
-* Abuse the platform
-
-Upon termination, Energy and rewards may be forfeited.
-
----
-
-## 12. Privacy
-
-Your personal data is handled in accordance with the **Move+ Privacy Policy**.
-
-We do not sell personal information.
-
----
-
-## 13. Governing Law
-
-These Terms are governed by the laws of the **Philippines**, unless otherwise required by local regulations.
-
----
-
-## 14. Contact
-
-For questions or support:
-
-📧 **[moveplus@gmail.com](mailto:moveplus@gmail.com)**
-
----
 
